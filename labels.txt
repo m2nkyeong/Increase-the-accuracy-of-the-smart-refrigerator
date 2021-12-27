@@ -1,0 +1,15 @@
+0 bean sprouts
+1 egg
+2 juice
+3 meat
+4 mushroom
+5 sauce
+6 tofu
+7 yogurt
+8 apple
+9 cucumber
+10 garlic
+11 green onion
+12 ham
+13 milk
+14 onion
